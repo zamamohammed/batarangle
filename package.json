@@ -27,7 +27,7 @@
     "es6-shim": "^0.33.6",
     "immutable": "^3.7.5",
     "json-formatter-js": "^0.2.0",
-    "reflect-metadata": "0.1.1",
+    "reflect-metadata": "0.2.2",
     "rx": "^4.0.0",
     "systemjs": "^0.19.3",
     "zone.js": "^0.5.8"
