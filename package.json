@@ -29,7 +29,7 @@
     "json-formatter-js": "^0.2.0",
     "reflect-metadata": "0.1.1",
     "rx": "^4.0.0",
-    "systemjs": "^0.19.3",
+    "systemjs": "^0.21.6",
     "zone.js": "^0.5.8"
   },
   "devDependencies": {
