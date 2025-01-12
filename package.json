@@ -20,7 +20,7 @@
     "postinstall": "tsd install"
   },
   "dependencies": {
-    "@reactivex/rxjs": "5.0.0-alpha.4",
+    "@reactivex/rxjs": "5.5.12",
     "angular2": "2.0.0-alpha.44",
     "basscss": "^7.0.4",
     "crypto": "0.0.3",
