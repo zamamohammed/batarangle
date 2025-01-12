@@ -24,7 +24,7 @@
     "angular2": "2.0.0-alpha.44",
     "basscss": "^7.0.4",
     "crypto": "0.0.3",
-    "es6-shim": "^0.33.6",
+    "es6-shim": "^0.35.8",
     "immutable": "^3.7.5",
     "json-formatter-js": "^0.2.0",
     "reflect-metadata": "0.1.1",
